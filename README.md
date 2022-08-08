@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
--🎓 I graduated from **Middle East Technical University
+-🎓 I graduated from Middle East Technical University
 
--💻 I'm currently improving myself in **Frontend ReactJS Developer Technology.
+-💻 I'm currently improving myself in Frontend ReactJS Developer Technology.
 
 -💪I am familiar with various programming languages and developer tools,
  
