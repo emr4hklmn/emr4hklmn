@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Emrah KOLEMENOGLU</h1>
-<h5 align="center"  >A passionate frontend developer From Turkey</h5>
-<h4 align="center">Technologies used in my projects are </h4>
-<h3 align="right">🔥 React js | HTML | CSS | JavaScript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h3>
+<h2 align="center">Hi 👋, I'm Emrah KOLEMENOGLU</h2>
+<h3 align="center"  >Frontend Developer</h3>
+<h4 align="center">🔥 React js | HTML | CSS | JavaScript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h4>
 
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
