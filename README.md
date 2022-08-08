@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Emrah KOLEMENOGLU</h1>
-<h5 align="center">A passionate frontend developer From Turkey</h5>
+<h5 align="center"  >A passionate frontend developer From Turkey</h5>
 <h4 align="center">Technologies used in my projects are </h4>
-<h3 align="center">🔥 React js | HTML | CSS | JavaScript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h3>
+<h3 align="right">🔥 React js | HTML | CSS | JavaScript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h3>
 
+  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
--🎓 I graduated from Middle East Technical University
-
--💻 I'm currently improving myself in Frontend ReactJS Developer Technology.
-
--💪I am familiar with various programming languages and developer tools,
- 
--💻📚I am constantly improving myself and Learning new technologies.
-
--🔥 I want to have a lifelong Frontend Developer Career
-
--🌱 I’m currently learning **Typescript ,Agile,Scrum,Solid JS**
-
-<h3 align="left">Connect with me:</h3>
+<p align="left">🎓 I graduated from Middle East Technical University</p>
+<p align="left">💻 I'm currently improving myself in Frontend ReactJS Developer Technology.</p>
+<p align="left">💪I am familiar with various programming languages and developer tools,</p>
+<p align="left">💻📚I am constantly improving myself and Learning new technologies.</p>
+<p align="left">🌱 I’m currently learning **Typescript ,Agile,Scrum,Solid JS**</p>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/emr4hklmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emr4hklmn" height="30" width="40" /></a>
 </p>
