@@ -4,7 +4,7 @@
 
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<p align="left">🎓 I graduated from Middle East Technical University</p>
+<p align="left">🎓 I graduated from <a href="https://www.metu.edu.tr/" target="_blank" rel="noreferrer"> Middle East Technical University</a></p>
 <p align="left">💪 familiar with various programming languages and developer tools,</p>
 <p align="left">👍  which are React js | HTML | CSS | Javascript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT</p>
 <p align="left">💻 constantly improving myself and Learning new technologies.</p>
