@@ -8,7 +8,7 @@
 <p align="left">💪 familiar with various programming languages and developer tools,</p>
 <p align="left">👍  which are React js | HTML | CSS | Javascript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT</p>
 <p align="left">💻 constantly improving myself and Learning new technologies.</p>
-<p align="left">🌱 in the process of learning Typescript, Agile, Scrum, Solid JS</p>
+<p align="left">📚 in the process of learning Typescript, Agile, Scrum, Solid JS</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/emr4hklmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emr4hklmn" height="30" width="40" /></a>
