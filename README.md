@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Emrah KOLEMENOGLU</h2>
-<h4 align="center"  >A passionate frontend developer From Turkey</h3>
+<h4 align="center"  >A passionate React Frontend Developer From Turkey</h3>
 <h3 align="center">🔥 React js | HTML | CSS | Javascript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h4>
 
   
