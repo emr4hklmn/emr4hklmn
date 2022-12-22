@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Emrah KOLEMENOGLU</h2>
 <h4 align="center"  >A passionate React Frontend Developer From Turkey</h3>
-<h3 align="center">🔥 React JS | Redux | Javascript | HTML5 | CSS3 |Redux | SASS/SCSS | Bootstrap | Tailwind |Firebase | APIs | GIT 🔥</h4>
+<h3 align="center">🔥 React JS | Redux | Javascript | HTML5 | CSS3 |Redux | Ant Desing | SASS/SCSS | Bootstrap | Tailwind |Firebase | APIs | GIT  🔥</h4>
 
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
