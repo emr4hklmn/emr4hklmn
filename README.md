@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left">🎓 I graduated from <a href="https://www.metu.edu.tr/" target="_blank" rel="noreferrer"> Middle East Technical University</a></p>
 <p align="left">💪 familiar with various programming languages and developer tools,</p>
-<p align="left">👍  which are React js | HTML | CSS | Javascript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT</p>
+<p align="left">👍  which are React js | HTML | CSS | Javascript | JQuery |Redux | Bootstrap | Tailwind |Firebase | APIs | GIT | Agile | Scrum</p>
 <p align="left">💻 constantly improving myself and Learning new technologies.</p>
-<p align="left">📚 in the process of learning Typescript, Agile, Scrum, Solid JS</p>
+<p align="left">📚 in the process of learning Python, MySQL, Flask</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/emr4hklmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emr4hklmn" height="30" width="40" /></a>
